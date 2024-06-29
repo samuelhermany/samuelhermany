@@ -1,4 +1,4 @@
-## Oiii eu sou a Samuel Hermany, programador especializado em software's CAD!
+## Oiii eu sou Samuel Hermany, programador especializado em software's CAD!
 
 <div align="center">
   <a href="https://github.com/rafaballerini">

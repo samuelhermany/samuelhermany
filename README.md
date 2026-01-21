@@ -1,7 +1,7 @@
 ## Oiii eu sou Samuel Hermany, programador especializado em software's CAD!
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://www.instagram.com/samuelhermany/">
   <img height="170em" width="500em" src="https://github-readme-stats.vercel.app/api?username=samuelhermany&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="190em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelhermany&layout=compact&langs_count=7&theme=dracula"/>
 </div>
@@ -25,3 +25,4 @@
   </a>
   <a href="https://www.linkedin.com/in/samuel-hermany-50ba5660" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
+
